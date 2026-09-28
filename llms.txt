@@ -1,0 +1,18 @@
+# SimpleAct — Modell- und Anbieterregister
+
+> Register für KI-Anbieter, Basismodelle und eingebettete Komponenten, samt der Beschaffungsfragen, die vor Vertragsschluss gehören. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+
+Kernaussagen: Ein Eintrag je Anbieter **und Tarif**, weil Zusagen sich pro Tarif unterscheiden. Drei Rollen getrennt führen — KI-Anbieter nach AI Act, Auftragsverarbeiter nach Art. 28 DSGVO, Empfänger für eigene Zwecke. Zu jeder Anbieterzusage gehört eine Fundstelle, nicht nur ein Ja.
+
+## Wissensbasis
+
+- [Was ins Register gehört](knowledge-base/registerfelder.md): Felder für Identität, Rollen, Einstufung, Vertragliches und Betrieb; „nicht bewertet" als gültiger Eintrag; Verbindung zu KI-Inventar, Verarbeitungsverzeichnis, Löschkonzept und Vorfallverfahren.
+- [Fragen vor dem Vertrag](knowledge-base/beschaffung.md): Zweckbestimmung und Grenzen, Rollenfrage einschließlich der Frage, wann der Kunde selbst zum Anbieter wird, Trainingsnutzung, Verarbeitungsort, Protokollzugang, Vorfallmeldung. Drei ehrliche Wege, wenn ein Anbieter nicht liefert.
+- [Wenn der Anbieter etwas ändert](knowledge-base/anbieteraenderungen.md): vier Arten von Änderungen, wie stille Modellwechsel überhaupt bemerkt werden, fester Testsatz als billigste Frühwarnung, vertragliche Vorsorge.
+
+## Vorlagen
+
+- [Registereintrag](templates/registereintrag.md)
+- [Anbieterfragebogen](templates/anbieterfragebogen.md) mit Fundstellenspalte je Antwort
+
+Keine Rechtsberatung. Stand: September 2026. Lizenz: MIT.
